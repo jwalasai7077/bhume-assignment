@@ -78,9 +78,14 @@ Additional metrics:
 
 The figure below compares the official cadastral boundary (red) against the example truth boundary (green).
 
-* <img width="1600" height="1600" alt="plot_1145_compare" src="https://github.com/user-attachments/assets/d737f46a-9a82-4bb3-bd8a-60354f074095" />
+<img width="1600" height="1600" alt="plot_1145_compare" src="https://github.com/user-attachments/assets/d737f46a-9a82-4bb3-bd8a-60354f074095" />
 
 This visualization shows that the dominant error is a translation (shift) rather than a major shape distortion, which motivated the median drift correction approach.
+
+Video Walkthrough
+
+Google Drive:
+https://drive.google.com/file/d/1O7owXX4VX-Ok_u9Xk0WgV2LODn58C3Qi/view?usp=sharing
 ---
 
 ## Repository Structure
