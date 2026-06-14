@@ -1,0 +1,30 @@
+# Video Link
+
+Video Walkthrough
+
+Google Drive:
+https://drive.google.com/file/d/1O7owXX4VX-Ok_u9Xk0WgV2LODn58C3Qi/view?usp=sharing
+
+# Video Description
+
+This video is a screen recording walkthrough of my work on the BhuMe cadastral alignment assignment.
+
+The recording demonstrates:
+
+* Exploration of the provided dataset
+* Analysis of example truth geometries
+* Visualization of official vs corrected boundaries
+* Drift estimation using centroid displacement
+* Development of the prediction pipeline
+* Generation and evaluation of corrected plot boundaries
+* Final prediction output and scoring results
+
+Due to a microphone permission issue during recording, the walkthrough is presented as a visual demonstration rather than a narrated explanation. The repository README contains a detailed explanation of the methodology, observations, implementation decisions, and results.
+
+Key Result:
+
+* Official Median IoU: 0.612
+* Corrected Median IoU: 0.713
+* Improvement: +0.113
+
+Future work includes local boundary-guided refinement using the provided boundary raster and confidence calibration.
